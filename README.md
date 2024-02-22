@@ -9,13 +9,13 @@ Hi, I'm Neel! 👋
 🏆 I've won several hackathons and have a strong foundation in computer science, backed by my ongoing Master's degree and diverse project experiences.
 
 ### 📊 GitHub Stats
-![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeldeepdandiwala&show_icons=true&theme=blue-green)
+![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neel-Dandiwala&show_icons=true&theme=blue-green)
 
 ### 🔥 Streak Stats
-![Neel's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=neeldeepdandiwala&theme=blue-green)
+![Neel's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Neel-Dandiwala&theme=blue-green)
 
 ### 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeldeepdandiwala&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-Dandiwala&layout=compact&theme=blue-green)
 
 ### 📚 Learning & Projects
 - Currently learning: **TypeScript, React**
