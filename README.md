@@ -17,11 +17,6 @@ Hi, I'm Neel! 👋
 ### 🚀 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-Dandiwala&layout=compact&theme=blue-green)
 
-### 📚 Learning & Projects
-- Currently learning: **TypeScript, React**
-- Working on: **Blockchain projects, Data Science with AWS**
-- Passionate about: **3D Game Development with Unreal Engine**
-
 ### 🌐 Social Links
 - [LinkedIn](https://www.linkedin.com/in/neel-dandiwala/)
 - [GitHub](https://github.com/Neel-Dandiwala)
